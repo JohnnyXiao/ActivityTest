@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package com.example.activitytest;
 
 import android.app.Activity;
@@ -45,3 +46,20 @@ public class SecondActivity extends BaseActivity {
 		setResult(RESULT_OK, intent);
 	}
 }
+=======
+package com.example.activitytest;
+
+import android.app.Activity;
+import android.os.Bundle;
+import android.view.Window;
+
+public class SecondActivity extends Activity {
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		// TODO Auto-generated method stub
+		super.onCreate(savedInstanceState);
+		requestWindowFeature(Window.FEATURE_NO_TITLE);
+		setContentView(R.layout.second_layout);
+	}
+}
+>>>>>>> 819ac7385c8705358c41174f52e5d33247fe2dcd

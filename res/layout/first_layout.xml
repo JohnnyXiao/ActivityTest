@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
@@ -12,3 +13,17 @@
         />
 
 </LinearLayout>
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <Button 
+        android:id="@+id/button_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Button 1" />
+</LinearLayout>
+>>>>>>> 819ac7385c8705358c41174f52e5d33247fe2dcd

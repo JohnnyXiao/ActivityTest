@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android" >
     <item 
@@ -8,3 +9,14 @@
         android:title="Remove" />
 
 </menu>
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/add_item"
+        android:title="Add" />
+    <item
+        android:id="@+id/remove_item"
+        android:title="Remove" />
+</menu>
+>>>>>>> 819ac7385c8705358c41174f52e5d33247fe2dcd
