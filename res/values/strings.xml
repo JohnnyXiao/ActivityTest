@@ -1,13 +1,5 @@
-<<<<<<< HEAD
 <resources>
 
-    <string name="app_name">Activity Test</string>
+    <string name="app_name">ActivityTest</string>
 
 </resources>
-=======
-<resources>
-
-    <string name="app_name">Activity Test</string>
-
-</resources>
->>>>>>> 819ac7385c8705358c41174f52e5d33247fe2dcd
