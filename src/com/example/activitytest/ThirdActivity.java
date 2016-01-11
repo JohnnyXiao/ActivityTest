@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.text.style.SuperscriptSpan;
 import android.view.Window;
 
-public class ThirdActivity extends Activity {
+public class ThirdActivity extends BaseActivity {
 	@Override
 	protected void onCreate(Bundle savedInstanceState){
 		super.onCreate(savedInstanceState);
